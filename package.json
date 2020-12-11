@@ -12,7 +12,7 @@
     }],
     "homepage": "https://github.com/flowxo/freshbooks.js",
     "dependencies": {
-        "libxmljs": "^0.18.0"
+        "libxmljs2": "^0.26.5"
     },
     "main": "index",
     "engines": {
